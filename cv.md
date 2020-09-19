@@ -6,13 +6,13 @@
   
 Persistent and plodding in achieving the final result, ready to perform hard work, very passionate about getting new skills and experience in web development.
   
-#### Skills
+### Skills
 -----------
 * HTML5
 * CSS3
 * JavaScript ES6
   
-#### Latest code examples  
+### Latest code examples  
 -----------
 ```
 @media (max-width: 1000px) {
@@ -36,13 +36,16 @@ Persistent and plodding in achieving the final result, ready to perform hard wor
 ```
 I'm not an experienced developer at the moment, but I'm working on finding opportunities to get it.  
   
-#### Education
+### Education
 -------------
-##### Majoring in Logistics Management
-*National Transport University*
-Kyiv, Ukraine
+#### Majoring in Logistics Management
+*National Transport University*  
+Kyiv, Ukraine  
 **Graduation**: 2016  
   
+### Languages
+-------------
+**English**: [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/Boc41u)
 
 
 
